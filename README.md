@@ -7,10 +7,8 @@ NOTE: only ohms law is implemented as of this writing.
 
 TODO:
 
-    add support for scientific notation
+    * Support for scientific notation
 
-    add Joule's Law for thermodynamic calculations
+    * Joule's Law for thermodynamic calculations
 
-    check against invalid input of values for all definitions
-
-    add resistivity calculator
+    * Resistivity calculator
