@@ -12,3 +12,5 @@ TODO:
     * Joule's Law for thermodynamic calculations
 
     * Resistivity calculator
+
+    * Implement menu with switch statement

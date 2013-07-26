@@ -11,6 +11,7 @@ def checkChoice(choice):
         return False
     else: 
         return True  
+
 #Check to see if arg entered is a valid float and is >0
 def checkNum(entered):
     try:
@@ -66,8 +67,8 @@ def whichCalc(choice):
     if (choice == 'R' or choice == 'r'):
         calcR()
 
-print("What would you like to find?")
-print("Enter 'V' 'I' 'R'")
+print("What would you like to calculate?")
+print("    'V' for Voltage\n    'I' for Current\n    'R' for Resistance")
 choice = input(prompt)
 valid = checkChoice(choice)
 if valid:
