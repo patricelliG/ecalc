@@ -11,4 +11,4 @@ TODO:
 
     * Resistivity calculator
 
-    * Implement menu with switch statement
+    * Implement menu
